@@ -4,7 +4,7 @@
 <title> This is a registration form</title>
 <body>
 <center>
-<h1 style="Color:red ;">AIUB</h1>
+<h1 style="Color:green ;">AIUB</h1>
 <h2 style="Color:red ;">Registration Form</h2>
 
 </center>
